@@ -6,7 +6,7 @@
 <tr>
 <td>
   
-#JOSHIMATH_UPPER🗺️
+#JOSHIMATH_UPPER 🗺️
 
 ![JOSHIMATH_UPPER](https://github.com/1kaiser/InSAR_OpenScienceLab/blob/main/JOSHIMATH_UPPER.png)
 </td>
@@ -19,7 +19,7 @@
 <tr>
 <td>
   
-#BEAS_BASIN_HAMIRPUR🗺️
+#BEAS_BASIN_HAMIRPUR 🗺️
 
 ![HAMIRPUR](https://github.com/1kaiser/InSAR_OpenScienceLab/blob/main/HAMIRPUR.png)
 </td>

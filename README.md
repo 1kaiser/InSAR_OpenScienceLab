@@ -1,5 +1,6 @@
 # [InSAR_OpenScienceLab](https://opensciencelab.asf.alaska.edu/)
 
+![](https://raw.githubusercontent.com/ASFOpenSARlab/opensarlab-notebooks/3a152dd4a6cf8c64e8e8b7a45da9146c19dd9923/SAR_Training/English/Hazards/NotebookAddons/MintPyWorkflow.jpg)
 
 <table>
 <thead>
